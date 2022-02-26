@@ -1,6 +1,6 @@
 # 2048-ai-comparison
 
-Comparison of different MCTS inputs to solve the 2048 game. Only AI files are part of this project, game implementation used from [kiteco GitHub](https://github.com/kiteco/python-youtube-code/tree/master/AI-plays-2048)
+Comparison of different MCTS inputs to solve the 2048 game. Only AI files are part of this project, game implementation used from [kiteco GitHub](https://github.com/kiteco/python-youtube-code/tree/master/build-2048-in-python)
 
 ## Installation :
 This project runs under Python 3 (tested 3.9 and 3.10)
